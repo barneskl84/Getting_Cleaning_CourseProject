@@ -62,8 +62,7 @@ columns to the descriptive names provided in the features.txt file.
 I named the resulting dataframe descr_colsDF.  I also had to add back 
 in the activity labels column.
 
-## Create a tidy dataset with the average of each variable for each 
-## activity and each subject. 
+## Create a tidy dataset with the average of each variable for each activity and each subject. 
 
 To subset by subject I have read the subject_test/train.txt files 
 into R, merged these into one column and added these to the descr_colsDF 

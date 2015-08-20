@@ -5,12 +5,12 @@ numeric code ranging from 1-30 for the subject being studied
 
 ##activities
 descriptive label for the activity being measured
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
-Laying
+-Walking
+-Walking Upstairs
+-Walking Downstairs
+-Sitting
+-Standing
+-Laying
 
 ##Columns 3-79
 Various measurements from the accelerometers and gyroscopes averaged
